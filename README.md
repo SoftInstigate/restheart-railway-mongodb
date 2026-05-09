@@ -2,7 +2,7 @@
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/restheart?referralCode=PMnqg_&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
-RESTHeart is a backend framework for MongoDB that instantly exposes REST, GraphQL, and WebSocket APIs on your database — with built-in authentication and authorization. No code required for standard CRUD operations.
+[RESTHeart](https://github.com/SoftInstigate/restheart) is a backend framework for MongoDB that instantly exposes REST, GraphQL, and WebSocket APIs on your database — with built-in authentication and authorization. No code required for standard CRUD operations.
 
 ## About Hosting RESTHeart
 
