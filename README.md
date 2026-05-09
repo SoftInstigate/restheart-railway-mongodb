@@ -108,6 +108,6 @@ If your admin username is not `admin`, replace it with the value of `RESTHEART_A
 
 Running RESTHeart on Railway gives you full control but also full responsibility: backups, monitoring, upgrades, and scaling are yours to manage.
 
-**[RESTHeart Cloud](https://restheart.com)** offers the same RESTHeart stack as a fully managed service — no infrastructure to maintain, SLA included, with a dashboard for user and permission management.
+**[RESTHeart Cloud](https://cloud.restheart.com/)** offers the same RESTHeart stack as a fully managed service — no infrastructure to maintain, SLA included, with a dashboard for user and permission management.
 
 When you're ready to hand off operations, RESTHeart Cloud is the natural next step.
