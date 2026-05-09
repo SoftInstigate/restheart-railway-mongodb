@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local environment files
+.env
+.env.local
+
+# Claude Code per-user settings
+.claude/
+
+# Internal handoff / setup notes (not part of the marketplace template)
+RAILWAY-SETUP-NOTES.md
+HANDOFF*.md
